@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 <br />
 
-[<img align="left" alt="HarshaStrix" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="HarshaStrix | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HarshaStrix | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HarshaStrix | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="HarshaStrix" width="18px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="HarshaStrix | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="HarshaStrix | LinkedIn" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarshaStrix | Instagram" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -52,17 +52,22 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 <br />
+<br />
 
 ---
 
 ### 📕 Latest Blog Posts
 
+<br />
+
 <!-- BLOG-POST-LIST:START -->
-- [StrixBlog][StrixBlog] [HarshaStrix - Welcome note!](https://harshastrixblog.blogspot.com/2021/07/hello-welcome-to-strixblog-my-personal.html)
+- [StrixBlog][StrixBlog] | [HarshaStrix - Welcome note!](https://harshastrixblog.blogspot.com/2021/07/hello-welcome-to-strixblog-my-personal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://myfolio-strixblog.web.app/blog.html)
 
+
+---
 
 [eXlygenze]: https://truleadai.com/
 [StrixBlog]: https://myfolio-strixblog.web.app/blog.html
