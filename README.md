@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://myfolio-strixblog.web.app/blog.html)
 
 
----
 
 [eXlygenze]: https://truleadai.com/
 [StrixBlog]: https://myfolio-strixblog.web.app/blog.html
