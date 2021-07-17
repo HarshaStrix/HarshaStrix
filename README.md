@@ -58,8 +58,6 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 
-<br />
-
 <!-- BLOG-POST-LIST:START -->
 - [StrixBlog][StrixBlog] | [HarshaStrix - Welcome note!](https://harshastrixblog.blogspot.com/2021/07/hello-welcome-to-strixblog-my-personal.html)
 <!-- BLOG-POST-LIST:END -->
