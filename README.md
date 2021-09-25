@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love painting and listening music
 
 ### 📫 How to reach me:
-<br />
+
 
 [<img align="left" alt="HarshaStrix" width="18px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="HarshaStrix | Twitter" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
----
+
 
 ### 📕 Latest Blog Posts
 
