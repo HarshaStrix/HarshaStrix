@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### I'm a Competetive Coder, Mobile Application Developer & Web Developer!!
 
-- 🎓 IITian [IIT ISM Dhanbad][college] 
+- 🎓 IITian [IIT (ISM) Dhanbad][college] 
 - 🎨 Artist
 - 🌠 󠀠󠀠Astrometiriphile
-- 🔭 I’m currently working as SDE Intern under Flutter Development at [eXlygenze Senseworks PVT LTD][eXlygenze]
+- 🔭 Former SDE Intern at [eXlygenze Senseworks PVT LTD][eXlygenze]
 - 🌱 I’m currently learning everything XD
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love painting and listening music
