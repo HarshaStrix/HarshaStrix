@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [StrixBlog][StrixBlog] | [HarshaStrix - Welcome note!](https://harshastrixblog.blogspot.com/2021/07/hello-welcome-to-strixblog-my-personal.html)
+- StrixBlog | [HarshaStrix - Welcome note!](https://harshastrixblog.blogspot.com/2021/07/hello-welcome-to-strixblog-my-personal.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://myfolio-strixblog.web.app/blog.html)
