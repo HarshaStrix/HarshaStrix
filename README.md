@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - 🎨 Artist
 - 🌠 󠀠󠀠Astrometiriphile
 - 🔭 Former SDE Intern at [eXlygenze Senseworks PVT LTD][eXlygenze]
-- 🌱 I’m currently learning everything XD
+- 🌱 I’m currently learning everything :)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love painting and listening music
 
-### 📫 How to reach me:
+### How to reach me:
 
 
 [<img align="left" alt="HarshaStrix" width="18px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
