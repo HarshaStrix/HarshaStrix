@@ -2,7 +2,7 @@
 
 >My name is Sree Harsha - aka [HarshaStrix][website] and I'm a Competetive Coder, Mobile Application & Web Developer. I'm from India, living in Mandapeta and currently studying at IIT (ISM) Dhanbad. You can find me on [![LinkedIn][2.2]][linkedin], or on [![Twitter][1.2]][twitter].
 
-[![Website](https://img.shields.io/website?label=myfolio-strixblog.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://myfolio-strixblog.web.app/)
+[![Website](https://img.shields.io/website?label=donthamsettisreeharsha.web.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://myfolio-strixblog.web.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshaStrix?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HarshaStrix)
 
 - 🎓 IITian [IIT (ISM) Dhanbad][college] 
