@@ -57,7 +57,7 @@
 [eXlygenze]: https://truleadai.com/
 [StrixBlog]: https://myfolio-strixblog.web.app/blog.html
 [college]: https://iitism.ac.in/
-[website]: https://myfolio-strixblog.web.app/
+[website]: https://donthamsettisreeharsha.web.app/
 [linkedin]: https://www.linkedin.com/in/harshastrix/
 
 [twitter]: https://twitter.com/HarshaStrix
